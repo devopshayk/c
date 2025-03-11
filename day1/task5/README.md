@@ -1,9 +1,9 @@
 # C/C++ Programming Tasks  
 
-## Example Task: Convert Lowercase to Uppercase  
+## Example Task: Convert Celsius to Fahrenheit 
 
 ## Files  
-- **program.c**
+- **program.c** – Task 5
 
 ### Code  
 

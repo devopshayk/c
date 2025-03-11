@@ -1,9 +1,9 @@
 # C/C++ Programming Tasks  
 
-## Example Task: Convert Lowercase to Uppercase  
+## Example Task: Basic Calculator  
 
 ## Files  
-- **program.c** 
+- **program.c** – Task 3
 
 ### Code  
 
