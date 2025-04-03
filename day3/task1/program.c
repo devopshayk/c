@@ -4,7 +4,7 @@
 		int num = 0;
 		int sum = 0;
 
-		printf("Write num for stugum: ");
+		printf("Write num for ideal number: ");
 		scanf("%d", &num);
 
 		for(int i = 1; i < num; i++) {
