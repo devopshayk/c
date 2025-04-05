@@ -4,16 +4,17 @@
 		int num = 0;
 		int n = 0;
 
-		printf("Tiv 2-n astichanov baz-baj: ");
+		printf("Write num for MUL and DIV operations: ");
 		scanf("%d", &num);
 
-		printf("inch astichanov: ");
+		printf("Power Count: ");
 		scanf("%d", &n);
 
-		int baz = num << n;
-		int baj = num >> n;
+		int mul = num << n;
+		int div = num >> n;
 
-		printf("%d tvi %d astichanov baj = %d, baz = %d ", num, n, baj, baz);
+		printf("Num: %d, %d ÷ %d = %d, %d × %d = %d\n", num, n, div, mul, n, div, mul);
+
 
 		return 0;
 

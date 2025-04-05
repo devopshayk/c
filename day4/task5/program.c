@@ -4,10 +4,10 @@
 		int num = 0;
 		int index = 0;
 
-		printf("tiv gri:: ");
+		printf("Write num for transfiguration: ");
 		scanf("%d", &num);
 
-		printf("index gri: ");
+		printf("Write index for transfiguration: ");
 		scanf("%d", &index);
 
 		int res = num | (1 << index);

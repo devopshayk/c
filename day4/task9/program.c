@@ -4,7 +4,7 @@
 		int num = 0;
 		int index = 0;
 
-		printf("Write num for stugum: ");
+		printf("Write num for operation: ");
 		scanf("%d", &num);
 		
 		printf("Write count for index: ");

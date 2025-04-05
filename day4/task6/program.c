@@ -4,7 +4,7 @@
 		int num = 0;
 		int count = 0;
 
-		printf("Write num for check 2i astichan:");
+		printf("Write a num to check a power of two:");
 		scanf("%d", &num);
 
 		while(num > 0) {

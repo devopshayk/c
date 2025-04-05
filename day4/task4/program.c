@@ -4,7 +4,7 @@
 		int num = 0;
 		int count = 0;
 
-		printf("Write num for: ");
+		printf("Write num for onces count: ");
 		scanf("%d", &num);
 
 		while(num > 0) {

@@ -4,10 +4,10 @@
 		int a = 0;
 		int b = 0;
 
-		printf("Write num for A: ");
+		printf("Write num for A (swaping): ");
 		scanf("%d", &a);
 
-		printf("Write num for B: ");
+		printf("Write num for B (swaping): ");
 		scanf("%d", &b);
 
 		int c = a ^ b;

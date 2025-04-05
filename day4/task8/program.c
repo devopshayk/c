@@ -4,7 +4,7 @@
 		char sym = ' ';
 		int res = 0;
 
-		printf("Write sym for cover-case: ");
+		printf("Write sym for convert-case(A-a): ");
 		scanf(" %c", &sym);
 
 		res = sym ^ 32;

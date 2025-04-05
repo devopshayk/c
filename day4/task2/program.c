@@ -4,7 +4,7 @@
 		int num = 0;
 		int result = 0;
 
-		printf("Write num for: ");
+		printf("Write num for grow two-times: ");
 		scanf("%d", &num);
 	
 		result = num << 1;
