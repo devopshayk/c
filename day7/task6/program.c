@@ -3,6 +3,7 @@
 	int main() {
 		const int size = 10;
 		int arr[size];
+
 		int target = 0;
 	
 		printf("Write nums for arr: ");

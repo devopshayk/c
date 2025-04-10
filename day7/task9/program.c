@@ -2,6 +2,7 @@
 
 	int main() {
 		int N = 0;
+
 		printf("Write num for N: ");
 		scanf("%d", &N);
 
@@ -19,7 +20,6 @@
 		for(int i = N; i >= 1; i--) {
                         sum_N += i;
                 }
-
 
 		for(int i = 0; i < size; i++) {
 			sum += arr[i];

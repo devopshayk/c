@@ -3,8 +3,10 @@
 	int main() {
 		const int size = 10;
 		int arr[size];
+
 		int count = 0;
 
+		printf("Write nums for array: ");
 		for(int i = 0; i < size; i++) {
 			scanf("%d", &arr[i]);
 		}

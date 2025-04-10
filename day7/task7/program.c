@@ -3,6 +3,7 @@
 	int main() {
 		const int size = 5;
 		int arr[size];
+
 		int count = 0;
 
 		printf("Write nums for arr: ");
@@ -19,4 +20,5 @@
 		if(count == size) printf("Yes\n");
 		else printf("No");
 		
+		return 0;
 	}

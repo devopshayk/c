@@ -3,8 +3,8 @@
 	int main() {
 		const int size = 5;
 		int arr[size];
-		int target = 0;
 
+		int target = 0;
 
 		printf("Write nums for array: ");
 		for(int i = 0 ; i < size; i++) {
@@ -16,4 +16,6 @@
 		}
 
 		printf("Unique element --> %d", target);
+
+		return 0;
 	}

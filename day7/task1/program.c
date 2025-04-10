@@ -3,8 +3,10 @@
 	int main() {
 		const int size = 5;
 		char arr[size];
+
 		int result = 0;
 
+		printf("Write syms to cover uppercase: ");
 		for(int i = 0; i < 5; i++) {
 			scanf(" %c", &arr[i]);
 		}
